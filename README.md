@@ -3,18 +3,36 @@ This repository contains the tasks I completed for the DevelopersHub AI/ML Engin
 
 ## Task 1: Exploring and Visualizing a Simple Dataset (Iris Dataset)
 
-Objective: Load, inspect, and visualize the Iris dataset to understand trends and distributions.
+**Objective:** Load, inspect, and visualize the Iris dataset to understand trends and distributions.
 
-Dataset: Iris (from seaborn)
+**Dataset:** Iris (from seaborn)
 
-Notebook: [Task1_Iris_Exploration.ipynb](./Task1_Iris_Exploration.ipynb)
+**Notebook:** [Task1_Iris_Exploration.ipynb](./Task1_Iris_Exploration.ipynb)
 
-Models/Tools: pandas, seaborn, matplotlib
+**Models/Tools**: pandas, seaborn, matplotlib
 
-Key results:
+**Key results**:
 - Visualized feature relationships with scatter plots
 - Examined distributions with histograms
 - Identified outliers and spread with box plots
 - Discovered that petal features best separate the species
+
+## Task 2 – Predict Future Stock Prices (Short-Term)
+
+**Objective**
+Use historical stock data to predict the next day's closing price.
+
+**Stock**  
+Apple (AAPL)
+
+**Notebook**  
+[Task2_Stock_Prediction.ipynb](./Task2_Stock_Prediction.ipynb)
+
+**Model**  
+Linear Regression
+
+**Key results**  
+- Shows predicted vs real prices in a time-series plot  
+- Captures general trend (though stock prediction is difficult)
 
 More tasks coming soon...
