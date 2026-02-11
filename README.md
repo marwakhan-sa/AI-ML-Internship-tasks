@@ -35,4 +35,21 @@ Linear Regression
 - Shows predicted vs real prices in a time-series plot  
 - Captures general trend (though stock prediction is difficult)
 
-More tasks coming soon...
+## Task 6 – House Price Prediction
+
+**Objective**  
+Predict house prices using property features.
+
+**Dataset**  
+California Housing (scikit-learn)
+
+**Notebook**  
+[Task6_House_Price_Prediction.ipynb](./Task6_House_Price_Prediction.ipynb)
+
+**Model**  
+Linear Regression
+
+**Key results**  
+- Shows real vs predicted prices  
+- Reasonable performance for a simple model  
+- MAE and RMSE reported
