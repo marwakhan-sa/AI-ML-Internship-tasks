@@ -1,0 +1,707 @@
+Ticket ID,Customer Name,Customer Email,Customer Age,Customer Gender,Product Purchased,Date of Purchase,Ticket Type,Ticket Subject,Ticket Description,Ticket Status,Resolution,Ticket Priority,Ticket Channel,First Response Time,Time to Resolution,Customer Satisfaction Rating,text,zero_shot_tag,few_shot_tag
+6775,Patricia Wu,lisaortiz@example.com,56,Male,LG Washing Machine,2021-05-09,Billing inquiry,Battery life,"I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the {product_purchased}. Please assist. If this item doesn't work, please let me know. I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Closed,Really let official.,Medium,Chat,2023-06-01 13:06:16,2023-06-01 04:51:16,5.0,"Battery life I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the {product_purchased}. Please assist. If this item doesn't work, please let me know. I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has already attempted to troubleshoot the,Technical Issue
+2740,Johnny Mitchell,cooperrobert@example.net,28,Female,Bose QuietComfort,2020-12-08,Billing inquiry,Network problem,"I've noticed a software bug in the {product_purchased} app. It's causing data loss and unexpected errors. How can I resolve this issue?
+
+There are two common issues in the {product_purchased} app I've checked for software updates, and my {product_purchased} is already running the latest version.",Closed,Glass range at thus believe week.,Medium,Email,2023-06-01 15:13:49,2023-06-01 16:13:49,2.0,"Network problem I've noticed a software bug in the {product_purchased} app. It's causing data loss and unexpected errors. How can I resolve this issue?
+
+There are two common issues in the {product_purchased} app I've checked for software updates, and my {product_purchased} is already running the latest version.",The category for this support ticket is: **Technical issue**.,Technical Issue
+5423,Megan Lopez,ryanleah@example.net,19,Female,Amazon Kindle,2020-10-30,Refund request,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist.
+
+$5.00
+
+$50.00
+
+Item #10
+
+The HYDRA 2 has all black trim with diamond cut corners, I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Open,,Low,Phone,,,,"Hardware issue I'm having an issue with the {product_purchased}. Please assist.
+
+$5.00
+
+$50.00
+
+Item #10
+
+The HYDRA 2 has all black trim with diamond cut corners, I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a hardware issue with their product and is concerned about the security of,Technical Issue
+4025,Patrick Rhodes,lopezdaniel@example.org,64,Male,Asus ROG,2021-11-28,Cancellation request,Data loss,"I'm having an issue with the {product_purchased}. Please assist.
+
+This issue will occur again if a product is added because of a problem with the product, or if the package fails to provide the desired functionality. I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Closed,Important sell account per civil.,Low,Phone,2023-06-01 00:10:09,2023-06-01 09:04:09,5.0,"Data loss I'm having an issue with the {product_purchased}. Please assist.
+
+This issue will occur again if a product is added because of a problem with the product, or if the package fails to provide the desired functionality. I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and is seeking assistance to resolve the issue,Technical Issue
+3725,Calvin Benson,wschroeder@example.com,62,Male,Microsoft Office,2021-03-26,Cancellation request,Product recommendation,"I'm having an issue with the {product_purchased}. Please assist. If there is a problem, please contact Customer Service Center directly by texting the email or mail to [email protected]. *The name and/or email address of the I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Pending Customer Response,,High,Email,2023-06-01 10:11:12,,,"Product recommendation I'm having an issue with the {product_purchased}. Please assist. If there is a problem, please contact Customer Service Center directly by texting the email or mail to [email protected]. *The name and/or email address of the I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has already attempted to resolve it by,Product Inquiry
+5540,Karen Rowland,qweiss@example.com,27,Female,Nest Thermostat,2021-05-09,Technical issue,Product setup,I'm having an issue with the {product_purchased}. Please assist. I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.,Closed,Act south series add than fast.,High,Phone,2023-06-01 02:31:49,2023-06-01 09:54:49,5.0,Product setup I'm having an issue with the {product_purchased}. Please assist. I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.,I would classify this support ticket as a **Technical issue**. The customer is experiencing an issue with the product they purchased and is concerned about the security,Product Inquiry
+477,Hunter Armstrong,schultzdaniel@example.net,59,Female,HP Pavilion,2020-08-30,Refund request,Installation support,"I'm having an issue with the {product_purchased}. Please assist. I've checked for software updates, and my {product_purchased} is already running the latest version.",Open,,Low,Social media,,,,"Installation support I'm having an issue with the {product_purchased}. Please assist. I've checked for software updates, and my {product_purchased} is already running the latest version.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+2555,Vicki Lopez,egross@example.org,51,Other,iPhone,2020-07-09,Billing inquiry,Installation support,"I'm having an issue with the {product_purchased}. Please assist.
+
+If you are experiencing this error, you and Microsoft are in direct conflict. Please be advised that Microsoft has the power to remove the Kahneman's ""product I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Closed,Above including man better occur music somebody.,Critical,Phone,2023-06-01 21:09:43,2023-06-01 10:20:43,5.0,"Installation support I'm having an issue with the {product_purchased}. Please assist.
+
+If you are experiencing this error, you and Microsoft are in direct conflict. Please be advised that Microsoft has the power to remove the Kahneman's ""product I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased and has already tried troubleshooting steps,Technical Issue
+3708,Kathleen Abbott,tgarcia@example.net,19,Other,Google Pixel,2021-04-24,Cancellation request,Account access,"I'm having an issue with the {product_purchased}. Please assist. —
+
+What's the solution?
+
+I use this to find out what kind of item i need. It is quite easy to do though. Just click I've checked the device settings and made sure that everything is configured correctly.",Closed,Hotel far hotel gun against.,Low,Chat,2023-06-01 22:35:48,2023-06-01 12:23:48,3.0,"Account access I'm having an issue with the {product_purchased}. Please assist. —
+
+What's the solution?
+
+I use this to find out what kind of item i need. It is quite easy to do though. Just click I've checked the device settings and made sure that everything is configured correctly.","I would classify this support ticket as a **Technical issue**. The customer is experiencing an issue with accessing their account related to a product they purchased,",Account Access
+6536,Rachel Massey,pearsonleah@example.com,36,Female,iPhone,2021-12-12,Cancellation request,Delivery problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+Qdg 1.9.0 Release Notes/New Version
+
+* If you have a pending update while you are using the client, please update I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Closed,Major capital else you spend community let.,High,Email,2023-06-01 15:44:43,2023-06-01 18:11:43,5.0,"Delivery problem I'm having an issue with the {product_purchased}. Please assist.
+
+Qdg 1.9.0 Release Notes/New Version
+
+* If you have a pending update while you are using the client, please update I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the delivery of a product and has already attempted to,Technical Issue
+8254,Scott Stevenson,jwillis@example.net,27,Male,Nintendo Switch,2021-03-03,Billing inquiry,Product compatibility,"I'm having an issue with the {product_purchased}. Please assist. - Thank you so much for being such a great friend. I'm in need of a couple of updates, and I need to check on the server. - I I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Open,,Medium,Phone,,,,"Product compatibility I'm having an issue with the {product_purchased}. Please assist. - Thank you so much for being such a great friend. I'm in need of a couple of updates, and I need to check on the server. - I I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has already attempted to resolve it by,Technical Issue
+7224,Erin Hunt,maldonadokaren@example.com,45,Male,Microsoft Office,2020-05-22,Billing inquiry,Data loss,"I'm having an issue with the {product_purchased}. Please assist.
+
+If your product is not accepted, please contact me.
+
+If your product doesn't respond, please contact me.
+
+Do you use products that I'm worried that the issue might be hardware-related and might require repair or replacement.",Open,,Low,Phone,,,,"Data loss I'm having an issue with the {product_purchased}. Please assist.
+
+If your product is not accepted, please contact me.
+
+If your product doesn't respond, please contact me.
+
+Do you use products that I'm worried that the issue might be hardware-related and might require repair or replacement.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased, specifically mentioning data loss and",Technical Issue
+1859,Emily Nunez,sbrown@example.com,34,Male,Google Nest,2020-01-27,Refund request,Payment issue,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? {products_purchased} will not work on account 1 or more if no new I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Pending Customer Response,,High,Social media,2023-06-01 05:57:14,,,"Payment issue I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? {products_purchased} will not work on account 1 or more if no new I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their account (password reset not working) and a,Account Access
+2158,Misty Owens,bonillarachael@example.com,63,Female,Dyson Vacuum Cleaner,2020-10-21,Product inquiry,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist. If I have an issue please have a note in the ""Paypal/Email address listed as ""contact"". Thank you again Ange. - - - - - - This problem started occurring after the recent software update. I haven't made any other changes to the device.",Pending Customer Response,,Critical,Phone,2023-06-01 21:27:30,,,"Hardware issue I'm having an issue with the {product_purchased}. Please assist. If I have an issue please have a note in the ""Paypal/Email address listed as ""contact"". Thank you again Ange. - - - - - - This problem started occurring after the recent software update. I haven't made any other changes to the device.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+3066,Roger Pitts,watkinslindsey@example.net,41,Male,Samsung Soundbar,2021-04-04,Technical issue,Cancellation request,"I'm having an issue with the {product_purchased}. Please assist.
+
+You can set the price of the products you're purchasing by clicking here.
+
+If the price on this page is under $16, your order will I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Closed,Receive management interesting prepare best toward talk need.,Critical,Chat,2023-06-01 14:19:13,2023-06-01 07:21:13,5.0,"Cancellation request I'm having an issue with the {product_purchased}. Please assist.
+
+You can set the price of the products you're purchasing by clicking here.
+
+If the price on this page is under $16, your order will I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",The correct classification for this support ticket is: **Cancellation request**.,Cancellation request
+6181,James Garcia,garciathomas@example.com,60,Female,Microsoft Xbox Controller,2021-09-13,Technical issue,Product recommendation,"I'm unable to access my {product_purchased} account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account?
+
+In this I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Open,,Critical,Social media,,,,"Product recommendation I'm unable to access my {product_purchased} account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account?
+
+In this I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with accessing their account and has already attempted to troubleshoot,Account Access
+3962,Brian Vang,rwise@example.net,30,Other,Philips Hue Lights,2020-01-05,Technical issue,Software bug,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+Thank you.
+
+Sale
+
+
+S-G
+
+PSN: _________________PSN: x3_3 I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Open,,Medium,Social media,,,,"Software bug I'm having an issue with the {product_purchased}. Please assist.
+
+
+Thank you.
+
+Sale
+
+
+S-G
+
+PSN: _________________PSN: x3_3 I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",The category for this support ticket is: **Technical issue**.,Technical Issue
+7679,Steven Johnson,dannyyoung@example.org,60,Female,Amazon Echo,2020-08-27,Refund request,Network problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+The link was last modified: Jul 01, 2017 12:28:57 PM by hodysg. I'm not sure if this issue is specific to my device or if others have reported similar problems.",Closed,At region who challenge energy main ten.,Critical,Social media,2023-06-01 07:37:57,2023-06-01 06:20:57,3.0,"Network problem I'm having an issue with the {product_purchased}. Please assist.
+
+The link was last modified: Jul 01, 2017 12:28:57 PM by hodysg. I'm not sure if this issue is specific to my device or if others have reported similar problems.","I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with the product they purchased, which suggests a technical issue",Technical Issue
+7430,Kimberly Shannon,nthomas@example.com,68,Other,Sony Xperia,2020-12-28,Billing inquiry,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist. Thanks!
+
+Rated 3 out of 5 by Anonymous from Needs a few weeks to fix After reading all the reviews and how very good these are, I would recommend I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Pending Customer Response,,Critical,Social media,2023-06-01 03:45:20,,,"Hardware issue I'm having an issue with the {product_purchased}. Please assist. Thanks!
+
+Rated 3 out of 5 by Anonymous from Needs a few weeks to fix After reading all the reviews and how very good these are, I would recommend I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",The category for this support ticket is: **Technical issue**,Technical Issue
+4784,Courtney Adams,jermaine65@example.org,28,Female,Nest Thermostat,2020-08-13,Refund request,Cancellation request,"The {product_purchased} is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem?
+
+- The network interface which we are connecting to is an internal ""client I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Closed,North common far medical personal itself student.,High,Chat,2023-06-01 14:58:31,2023-06-01 10:46:31,3.0,"Cancellation request The {product_purchased} is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem?
+
+- The network interface which we are connecting to is an internal ""client I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.","Based on the ticket text, I would classify this support ticket as a **Cancellation request**.",Technical Issue
+6723,Ronald Perry,anthony23@example.net,65,Female,Sony 4K HDR TV,2021-06-29,Billing inquiry,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist. #10
+
+#9-1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 #9
+
+#8 * Please assist * I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Closed,Easy treat let age notice model continue.,Medium,Phone,2023-06-01 19:44:01,2023-06-01 19:22:01,2.0,"Hardware issue I'm having an issue with the {product_purchased}. Please assist. #10
+
+#9-1
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 #9
+
+#8 * Please assist * I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a hardware issue with their product and",Product inquiry
+8346,Alexis Bell,barbaragray@example.com,18,Other,Roomba Robot Vacuum,2021-12-29,Billing inquiry,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist. We're working on this change. Thank you if you'd like to see more information. We need your help to fully fix this. Thank you all for your assistance The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Closed,Rate idea particularly book.,Low,Social media,2023-06-01 14:37:41,2023-06-01 19:24:41,3.0,"Hardware issue I'm having an issue with the {product_purchased}. Please assist. We're working on this change. Thank you if you'd like to see more information. We need your help to fully fix this. Thank you all for your assistance The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+4654,Nicole Harvey,michael18@example.com,41,Female,Microsoft Xbox Controller,2021-10-05,Technical issue,Product compatibility,"I'm having an issue with the {product_purchased}. Please assist.
+
+5) Select, select, select, select, select, select, select! I need assistance as soon as possible because it's affecting my work and productivity.",Open,,High,Social media,,,,"Product compatibility I'm having an issue with the {product_purchased}. Please assist.
+
+5) Select, select, select, select, select, select, select! I need assistance as soon as possible because it's affecting my work and productivity.","I would classify this support ticket as a **Technical issue**. The customer is experiencing an issue with a product they purchased and are requesting assistance, which",Product Inquiry
+8291,Renee Roberts,wallacechristopher@example.org,58,Male,Google Pixel,2021-10-13,Billing inquiry,Hardware issue,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. Are you sure I'm telling the truth? I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Open,,Medium,Email,,,,"Hardware issue I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. Are you sure I'm telling the truth? I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",The category for this support ticket is: **Technical issue**,Technical Issue
+3475,Mark Guerrero,rebeccadavenport@example.com,50,Female,Sony 4K HDR TV,2020-04-20,Refund request,Account access,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? If so, why make changes to the code if they won't work I've checked for software updates, and my {product_purchased} is already running the latest version.",Open,,High,Social media,,,,"Account access I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? If so, why make changes to the code if they won't work I've checked for software updates, and my {product_purchased} is already running the latest version.",The category for this support ticket is: **Technical issue**.,Product Feedback
+7905,Jose Allen,carolinerandolph@example.com,48,Other,Roomba Robot Vacuum,2021-12-19,Technical issue,Software bug,"I'm having an issue with the {product_purchased}. Please assist.
+
+Product ID: 2725
+
+Type: Small Business
+
+Product ID: 2730
+
+Number: 2731
+
+This item ships free of I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Closed,Budget its seat husband answer paper.,Medium,Chat,2023-06-01 17:56:17,2023-06-01 11:00:17,2.0,"Software bug I'm having an issue with the {product_purchased}. Please assist.
+
+Product ID: 2725
+
+Type: Small Business
+
+Product ID: 2730
+
+Number: 2731
+
+This item ships free of I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased and is asking for assistance with,Product inquiry
+4994,Brooke Nicholson,rachelkane@example.net,39,Male,Bose QuietComfort,2021-11-09,Billing inquiry,Software bug,"I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the ""Product"" field when I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Closed,It shoulder prepare.,Low,Phone,2023-06-01 13:36:15,2023-06-01 08:25:15,4.0,"Software bug I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the ""Product"" field when I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+5395,Joseph Smith,crawfordjulian@example.net,44,Female,Canon DSLR Camera,2020-01-24,Billing inquiry,Refund request,"I'm having an issue with the {product_purchased}. Please assist. Please try again later.
+
+| product_purchased=product
+
+| order_total=3540.00
+
+The result is that I I need assistance as soon as possible because it's affecting my work and productivity.",Closed,Save relate space agent.,Critical,Social media,2023-06-01 01:23:27,2023-06-01 09:08:27,3.0,"Refund request I'm having an issue with the {product_purchased}. Please assist. Please try again later.
+
+| product_purchased=product
+
+| order_total=3540.00
+
+The result is that I I need assistance as soon as possible because it's affecting my work and productivity.",The category for this support ticket is: **Refund request**,Refund request
+2951,Eileen Boyd,james50@example.net,41,Male,Bose SoundLink Speaker,2020-04-28,Cancellation request,Data loss,"I'm having an issue with the {product_purchased}. Please assist. ""
+
+In the end, this isn't very much work, and it almost certainly won't stop you from using it.
+
+It did fix three issues I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Pending Customer Response,,Low,Chat,2023-06-01 06:49:34,,,"Data loss I'm having an issue with the {product_purchased}. Please assist. ""
+
+In the end, this isn't very much work, and it almost certainly won't stop you from using it.
+
+It did fix three issues I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product, specifically mentioning data loss and an error",Technical Issue
+3305,Michele Bright,yhayes@example.org,67,Female,Nikon D,2021-11-05,Product inquiry,Software bug,"I'm having an issue with the {product_purchased}. Please assist.
+
+1.
+
+1.a.
+
+1.b.
+
+1.c.
+
+1.d.
+
+1.e I'm not sure if this issue is specific to my device or if others have reported similar problems.",Open,,Low,Social media,,,,"Software bug I'm having an issue with the {product_purchased}. Please assist.
+
+1.
+
+1.a.
+
+1.b.
+
+1.c.
+
+1.d.
+
+1.e I'm not sure if this issue is specific to my device or if others have reported similar problems.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+4805,Tiffany Nicholson,cynthiareed@example.com,44,Other,HP Pavilion,2020-06-21,Cancellation request,Installation support,"I'm having an issue with the {product_purchased}. Please assist. Please use the information below in the email.
+
+We get a lot of things wrong. You can get errors when doing your shopping online, or you can be I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Closed,Behavior clear meet simply.,Medium,Email,2023-06-01 02:07:57,2023-06-01 13:35:57,4.0,"Installation support I'm having an issue with the {product_purchased}. Please assist. Please use the information below in the email.
+
+We get a lot of things wrong. You can get errors when doing your shopping online, or you can be I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",The category for this support ticket is: **Technical issue**.,Technical Issue
+8421,Andrew Smith,coxbrandon@example.org,41,Female,Xbox,2021-03-05,Technical issue,Installation support,"I'm having an issue with the {product_purchased}. Please assist.
+
+I can not receive any compensation. You see this message. Please assist.
+
+I can not accept payment. You see this message. Please assist. I've checked for software updates, and my {product_purchased} is already running the latest version.",Closed,Hot property or start.,Medium,Phone,2023-06-01 02:15:23,2023-06-01 01:37:23,5.0,"Installation support I'm having an issue with the {product_purchased}. Please assist.
+
+I can not receive any compensation. You see this message. Please assist.
+
+I can not accept payment. You see this message. Please assist. I've checked for software updates, and my {product_purchased} is already running the latest version.","I would classify this support ticket as a **Technical issue**. The customer is experiencing problems with their product, specifically issues with receiving compensation and accepting payment",Technical Issue
+170,Sara Jones,toddheather@example.com,30,Male,Sony Xperia,2020-08-04,Product inquiry,Network problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+When you first sign up for your free e-mail account, there is very little in terms of a service there. The service, for example, sends I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Closed,Your determine such summer young.,Medium,Phone,2023-06-01 14:14:36,2023-06-01 11:08:36,1.0,"Network problem I'm having an issue with the {product_purchased}. Please assist.
+
+When you first sign up for your free e-mail account, there is very little in terms of a service there. The service, for example, sends I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their {product_purchased} and is concerned about,Technical Issue
+2532,Jessica Lee,flewis@example.org,67,Other,Philips Hue Lights,2021-04-17,Technical issue,Payment issue,"I'm having an issue with the {product_purchased}. Please assist. Thanks.""
+
+G. B. Stagg has been following the matter for many years and has taken a look at it every so often. He said she might I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Closed,Second close mean enjoy though subject.,Critical,Chat,2023-06-01 02:59:09,2023-06-01 03:27:09,5.0,"Payment issue I'm having an issue with the {product_purchased}. Please assist. Thanks.""
+
+G. B. Stagg has been following the matter for many years and has taken a look at it every so often. He said she might I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased",Billing inquiry
+2320,Ariel Lester,jonestracey@example.com,31,Male,Google Nest,2020-04-08,Cancellation request,Payment issue,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution? Yes, we can.
+
+Thank you for your consideration and please leave a I'm not sure if this issue is specific to my device or if others have reported similar problems.",Open,,Medium,Email,,,,"Payment issue There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution? Yes, we can.
+
+Thank you for your consideration and please leave a I'm not sure if this issue is specific to my device or if others have reported similar problems.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+5525,Russell Fowler,kathy41@example.net,62,Male,Google Nest,2020-07-29,Refund request,Installation support,"I've recently set up my {product_purchased}, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue?
+
+1. Check network settings.
+
+2. Start {p I'm worried that the issue might be hardware-related and might require repair or replacement.",Open,,Medium,Email,,,,"Installation support I've recently set up my {product_purchased}, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue?
+
+1. Check network settings.
+
+2. Start {p I'm worried that the issue might be hardware-related and might require repair or replacement.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product (connection to available networks) and is,Technical Issue
+5684,Hannah Davis,noahpaul@example.net,64,Male,Fitbit Charge,2021-02-16,Product inquiry,Product recommendation,"I'm having an issue with the {product_purchased}. Please assist.
+
+This post should explain a bit.
+
+When you buy something you need to make a sale. If you think the seller seems to sell some goods they I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",Closed,Benefit worry short issue in fast short.,Medium,Chat,2023-06-01 11:04:05,2023-06-01 22:26:05,2.0,"Product recommendation I'm having an issue with the {product_purchased}. Please assist.
+
+This post should explain a bit.
+
+When you buy something you need to make a sale. If you think the seller seems to sell some goods they I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",The category for this support ticket is: **Technical issue**.,Product Inquiry
+903,Steven Martin,lindseypeters@example.net,51,Female,Dyson Vacuum Cleaner,2021-08-22,Cancellation request,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist. </font></p> <p>No. The product supplied does not have the name ""safer"" under the description.</p><p>The product supplied I've checked for any available software updates for my {product_purchased}, but there are none.",Pending Customer Response,,Low,Chat,2023-06-01 17:56:23,,,"Hardware issue I'm having an issue with the {product_purchased}. Please assist. </font></p> <p>No. The product supplied does not have the name ""safer"" under the description.</p><p>The product supplied I've checked for any available software updates for my {product_purchased}, but there are none.",The category for this support ticket is: **Technical issue**.,Technical Issue
+4190,Donna Stevenson,hlane@example.net,68,Male,Google Pixel,2021-08-13,Technical issue,Display issue,"I've accidentally deleted important data from my {product_purchased}. Is there any way to recover the deleted files? I need them urgently.
+
+Note: If the content of this message was in the {product_purchased} I need assistance as soon as possible because it's affecting my work and productivity.",Pending Customer Response,,High,Email,2023-06-01 17:23:05,,,"Display issue I've accidentally deleted important data from my {product_purchased}. Is there any way to recover the deleted files? I need them urgently.
+
+Note: If the content of this message was in the {product_purchased} I need assistance as soon as possible because it's affecting my work and productivity.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product (deletion of important data) and,Technical Issue
+5822,John Jones,paul01@example.net,55,Female,GoPro Hero,2020-09-29,Technical issue,Product recommendation,"The {product_purchased} is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem?
+
+Solution 1: Remove the IPv4 address.
+
+Here's I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Pending Customer Response,,High,Chat,2023-06-01 21:49:22,,,"Product recommendation The {product_purchased} is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem?
+
+Solution 1: Remove the IPv4 address.
+
+Here's I'm using the original charger that came with my {product_purchased}, but it's not charging properly.","I would classify this support ticket as a **Technical issue**. The customer is experiencing problems with their product's internet connection and charging functionality, and is",Technical Issue
+3280,Rebecca Robinson,brownkathryn@example.net,29,Male,Bose QuietComfort,2020-03-21,Product inquiry,Product setup,"I'm having an issue with the {product_purchased}. Please assist. — Brian J. Jones (@BJJones) February 18, 2017
+
+It's a good thing the product isn't on sale… #SVCCs I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Pending Customer Response,,Medium,Email,2023-06-01 12:21:14,,,"Product setup I'm having an issue with the {product_purchased}. Please assist. — Brian J. Jones (@BJJones) February 18, 2017
+
+It's a good thing the product isn't on sale… #SVCCs I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",The category for this support ticket is: **Technical issue**.,Product Inquiry
+3486,Ryan Peterson,adavis@example.net,26,Female,Roomba Robot Vacuum,2020-12-17,Technical issue,Network problem,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue?
+
+[1:21 I've already contacted customer support multiple times, but the issue remains unresolved.",Pending Customer Response,,Critical,Email,2023-06-01 18:21:51,,,"Network problem I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue?
+
+[1:21 I've already contacted customer support multiple times, but the issue remains unresolved.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+6405,Patricia Taylor,ihorn@example.com,69,Other,MacBook Pro,2021-12-15,Refund request,Refund request,"I'm having an issue with the {product_purchased}. Please assist. 1 2 Next » I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Pending Customer Response,,Medium,Phone,2023-06-01 00:36:44,,,"Refund request I'm having an issue with the {product_purchased}. Please assist. 1 2 Next » I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",The category for this support ticket is: **Refund request**,Refund request
+4013,Antonio Thompson,wbennett@example.org,64,Male,Microsoft Xbox Controller,2020-01-13,Technical issue,Product setup,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond.
+
+This is a pain in the ass I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Pending Customer Response,,Medium,Chat,2023-06-01 16:38:52,,,"Product setup I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond.
+
+This is a pain in the ass I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product, specifically that it's not turning on",Technical Issue
+3839,Linda Johnson,jameskathleen@example.com,65,Female,GoPro Hero,2021-12-09,Billing inquiry,Payment issue,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? Login with your account's username: Yes.
+
+Your password will expire for 10 days I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Open,,High,Social media,,,,"Payment issue I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? Login with your account's username: Yes.
+
+Your password will expire for 10 days I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their account (password reset not working) and is,Account Access
+5280,Stuart Macdonald,charles68@example.org,61,Other,Fitbit Versa Smartwatch,2020-06-26,Billing inquiry,Network problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+The order will be processed to ensure that they don't have to take down my order, and I will send the refund to them.
+
+I can I've already contacted customer support multiple times, but the issue remains unresolved.",Open,,Low,Chat,,,,"Network problem I'm having an issue with the {product_purchased}. Please assist.
+
+The order will be processed to ensure that they don't have to take down my order, and I will send the refund to them.
+
+I can I've already contacted customer support multiple times, but the issue remains unresolved.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a network problem with the product they",Technical Issue
+4856,Russell Lopez,proctorelizabeth@example.org,66,Other,Nest Thermostat,2020-08-04,Cancellation request,Delivery problem,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+Once the credit card is credited against my account, you'll be warned about any I've checked for software updates, and my {product_purchased} is already running the latest version.",Pending Customer Response,,Low,Phone,2023-06-01 11:16:05,,,"Delivery problem I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+Once the credit card is credited against my account, you'll be warned about any I've checked for software updates, and my {product_purchased} is already running the latest version.",The category for this support ticket is: **Technical issue**.,Account Access
+1062,Melissa Gonzalez,tanyadickerson@example.net,49,Female,Microsoft Office,2021-10-13,Technical issue,Refund request,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please understand the product, the products, and our products are what we offer. Thank you for visiting.
+
+If we have questions about the product, I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Pending Customer Response,,Low,Social media,2023-06-01 19:21:00,,,"Refund request I'm having an issue with the {product_purchased}. Please assist.
+
+Please understand the product, the products, and our products are what we offer. Thank you for visiting.
+
+If we have questions about the product, I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",The category for this support ticket is: **Refund request**,Refund request
+8325,Brandi White,powellkimberly@example.org,24,Other,Canon EOS,2021-11-26,Refund request,Product compatibility,"I'm having an issue with the {product_purchased}. Please assist. (Sending a mod to a specific recipient is not supported.)
+
+My question is, do you feel it's unreasonable and unethical to include this ""product"" I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Open,,Critical,Phone,,,,"Product compatibility I'm having an issue with the {product_purchased}. Please assist. (Sending a mod to a specific recipient is not supported.)
+
+My question is, do you feel it's unreasonable and unethical to include this ""product"" I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and is seeking assistance to resolve the issue,Product Inquiry
+7749,Hannah Joseph,donna07@example.net,41,Female,Microsoft Office,2020-10-21,Billing inquiry,Refund request,"I'm having an issue with the {product_purchased}. Please assist.
+
+3. Install an update to your server with a free install that is available with the Update Manager client.
+
+4. To remove the previous version of I've tried different settings and configurations on my {product_purchased}, but the issue persists.",Open,,High,Social media,,,,"Refund request I'm having an issue with the {product_purchased}. Please assist.
+
+3. Install an update to your server with a free install that is available with the Update Manager client.
+
+4. To remove the previous version of I've tried different settings and configurations on my {product_purchased}, but the issue persists.","Based on the ticket text, I would classify this support ticket as a **Refund request**.",Refund request
+5076,Sheila Morgan,joshuaevans@example.com,26,Other,Nikon D,2021-04-05,Cancellation request,Account access,"I'm having an issue with the {product_purchased}. Please assist.
+
+{product_name}
+
+{product_sell_code}
+
+}
+
+# End if
+
+# ifdef AUTO_CON I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Pending Customer Response,,High,Social media,2023-06-01 15:41:13,,,"Account access I'm having an issue with the {product_purchased}. Please assist.
+
+{product_name}
+
+{product_sell_code}
+
+}
+
+# End if
+
+# ifdef AUTO_CON I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has already attempted to troubleshoot the,Account Access
+5777,Mark Williams,alexandralee@example.net,51,Male,Asus ROG,2020-11-28,Technical issue,Product setup,"I'm having an issue with the {product_purchased}. Please assist. The {product_purchased} will be sent to the purchaser's email address as specified in the checkout method.
+
+You need to contact the store for I'm not sure if this issue is specific to my device or if others have reported similar problems.",Closed,Market enough decide front church.,Medium,Chat,2023-06-01 11:27:16,2023-06-01 00:09:16,1.0,"Product setup I'm having an issue with the {product_purchased}. Please assist. The {product_purchased} will be sent to the purchaser's email address as specified in the checkout method.
+
+You need to contact the store for I'm not sure if this issue is specific to my device or if others have reported similar problems.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product setup and is seeking assistance, which indicates",Product Inquiry
+7321,Dawn Nolan,zwilliamson@example.org,53,Male,Google Nest,2021-05-26,Product inquiry,Product compatibility,"I'm having an issue with the {product_purchased}. Please assist. Thank you.
+
+I ordered the gift and was told the receipt in the box had returned to them and I did not receive the gift. I was thinking about I'm worried that the issue might be hardware-related and might require repair or replacement.",Open,,Low,Email,,,,"Product compatibility I'm having an issue with the {product_purchased}. Please assist. Thank you.
+
+I ordered the gift and was told the receipt in the box had returned to them and I did not receive the gift. I was thinking about I'm worried that the issue might be hardware-related and might require repair or replacement.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased and is concerned about hardware-related,Product Inquiry
+4985,Adam Howard,johnwatkins@example.com,69,Male,Nikon D,2021-01-31,Refund request,Peripheral compatibility,"I'm having an issue with the {product_purchased}. Please assist. Thanks.
+
+
+Thank you for your support,
+
+Sven
+
+Hackers!
+
+@nixalux
+
+- Hacking in Windows I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Pending Customer Response,,Low,Chat,2023-06-01 18:43:04,,,"Peripheral compatibility I'm having an issue with the {product_purchased}. Please assist. Thanks.
+
+
+Thank you for your support,
+
+Sven
+
+Hackers!
+
+@nixalux
+
+- Hacking in Windows I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has",Technical Issue
+6772,Jessica Sanders,john81@example.com,24,Female,Samsung Soundbar,2021-12-04,Refund request,Hardware issue,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution?
+
+Thanks
+
+Bobby
+
+Thanks!
+
+Nascha I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Pending Customer Response,,Medium,Chat,2023-06-01 09:32:10,,,"Hardware issue There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution?
+
+Thanks
+
+Bobby
+
+Thanks!
+
+Nascha I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",The category for this support ticket is: **Technical issue**.,Technical Issue
+6541,Andrea Jones,zacharysmith@example.net,26,Female,Apple AirPods,2020-11-23,Cancellation request,Product recommendation,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. As of now, my {product_p I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Pending Customer Response,,Medium,Email,2023-06-01 02:32:48,,,"Product recommendation I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. As of now, my {product_p I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+5487,Ashley Yoder,echristensen@example.com,33,Female,Google Nest,2021-04-29,Technical issue,Software bug,I'm having an issue with the {product_purchased}. Please assist. I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.,Pending Customer Response,,Low,Social media,2023-06-01 21:03:36,,,Software bug I'm having an issue with the {product_purchased}. Please assist. I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.,"I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with the product they purchased, specifically a software bug,",Technical Issue
+5392,Tina Arnold,owoods@example.org,56,Female,PlayStation,2020-08-23,Billing inquiry,Software bug,"I'm having an issue with the {product_purchased}. Please assist. If you are a distributor, please have you check your list of licensed dealers with us.
+
+For the rest of you: we offer the same sales line, I've already contacted customer support multiple times, but the issue remains unresolved.",Pending Customer Response,,Medium,Phone,2023-06-01 09:54:23,,,"Software bug I'm having an issue with the {product_purchased}. Please assist. If you are a distributor, please have you check your list of licensed dealers with us.
+
+For the rest of you: we offer the same sales line, I've already contacted customer support multiple times, but the issue remains unresolved.","I would classify this support ticket as a **Technical issue**. The customer is reporting a software bug and has already contacted customer support multiple times, indicating",Technical Issue
+1922,Jamie Williams,jonathan42@example.com,56,Male,Fitbit Versa Smartwatch,2021-01-27,Refund request,Network problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+Q. A Product Purchase Order is Not a Buy:
+
+Q: When the product has been purchased and has a specified quantity, what is included in I've checked for software updates, and my {product_purchased} is already running the latest version.",Closed,Ground commercial spring partner.,Critical,Social media,2023-06-01 17:34:43,2023-06-01 16:42:43,1.0,"Network problem I'm having an issue with the {product_purchased}. Please assist.
+
+Q. A Product Purchase Order is Not a Buy:
+
+Q: When the product has been purchased and has a specified quantity, what is included in I've checked for software updates, and my {product_purchased} is already running the latest version.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has",Technical Issue
+3661,Kevin Keith,cjohnson@example.com,56,Male,GoPro Action Camera,2020-12-14,Product inquiry,Product setup,"There seems to be a hardware problem with my {product_purchased}. The screen is flickering, and I'm unable to use it. What should I do?
+
+I have tried a few different solutions: (1) To use a This problem started occurring after the recent software update. I haven't made any other changes to the device.",Open,,Critical,Social media,,,,"Product setup There seems to be a hardware problem with my {product_purchased}. The screen is flickering, and I'm unable to use it. What should I do?
+
+I have tried a few different solutions: (1) To use a This problem started occurring after the recent software update. I haven't made any other changes to the device.",The category for this support ticket is: **Technical issue**.,Technical Issue
+4569,Maurice Moreno,alexissantana@example.org,56,Female,LG Smart TV,2020-08-04,Refund request,Account access,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue?
+
+I live in an I've checked the device settings and made sure that everything is configured correctly.",Pending Customer Response,,Critical,Social media,2023-06-01 16:59:32,,,"Account access I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue?
+
+I live in an I've checked the device settings and made sure that everything is configured correctly.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+4392,William Anderson,nicolesmith@example.org,37,Other,Nintendo Switch,2021-06-22,Cancellation request,Product recommendation,"I'm unable to access my {product_purchased} account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? <input id="" I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Open,,Medium,Email,,,,"Product recommendation I'm unable to access my {product_purchased} account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? <input id="" I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",The support ticket can be classified as a **Technical issue**.,Account Access
+2040,Edward Brown,hsmith@example.org,25,Other,Apple AirPods,2021-11-02,Technical issue,Display issue,"I'm having an issue with the {product_purchased}. Please assist. The product has been purchased and the manufacturer knows to the satisfaction of that fact.
+
+I believe you're incorrect about that.
+
+It was purchased by a I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Pending Customer Response,,High,Phone,2023-06-01 07:11:35,,,"Display issue I'm having an issue with the {product_purchased}. Please assist. The product has been purchased and the manufacturer knows to the satisfaction of that fact.
+
+I believe you're incorrect about that.
+
+It was purchased by a I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?","I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with the product they purchased, specifically a display issue with",Technical Issue
+6212,Christina Stevens,kevin17@example.net,36,Female,Sony Xperia,2020-09-26,Technical issue,Refund request,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you for your help. I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Closed,Should outside sit war.,Low,Email,2023-06-01 22:39:15,2023-06-01 06:14:15,2.0,"Refund request I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you for your help. I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",I would classify this support ticket as a **Refund request**.,Refund request
+1660,John Parker,john58@example.org,55,Female,HP Pavilion,2020-04-11,Product inquiry,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist. I'd be happy to do some shopping.
+
+If you can help, please go to my shop.
+
+Do not send me messages too soon, as I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",Closed,Contain system kid raise create bank star leg.,Critical,Email,2023-06-01 03:48:39,2023-05-31 22:48:39,4.0,"Hardware issue I'm having an issue with the {product_purchased}. Please assist. I'd be happy to do some shopping.
+
+If you can help, please go to my shop.
+
+Do not send me messages too soon, as I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased and has already tried troubleshooting steps,Technical Issue
+7391,Kyle Wells,tylerlong@example.net,21,Other,Apple AirPods,2021-08-07,Billing inquiry,Battery life,"I'm having an issue with the {product_purchased}. Please assist.
+
+0x6d3400b4 0x6d340000 5c45
+
+0x6d34700 1 0 6d3400 I need assistance as soon as possible because it's affecting my work and productivity.",Open,,Medium,Phone,,,,"Battery life I'm having an issue with the {product_purchased}. Please assist.
+
+0x6d3400b4 0x6d340000 5c45
+
+0x6d34700 1 0 6d3400 I need assistance as soon as possible because it's affecting my work and productivity.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product (battery",Technical Issue
+3950,Thomas Carr,gracerivera@example.com,63,Other,Sony PlayStation,2021-07-28,Refund request,Peripheral compatibility,"I'm having an issue with the {product_purchased}. Please assist.
+
+A customer
+
+A customer is an entity authorized to sell, exchange, provide for a specified transfer and/or transfer authorization to a specified buyer and seller I've checked for software updates, and my {product_purchased} is already running the latest version.",Pending Customer Response,,Critical,Chat,2023-06-01 23:00:24,,,"Peripheral compatibility I'm having an issue with the {product_purchased}. Please assist.
+
+A customer
+
+A customer is an entity authorized to sell, exchange, provide for a specified transfer and/or transfer authorization to a specified buyer and seller I've checked for software updates, and my {product_purchased} is already running the latest version.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with their product and has",Technical Issue
+4956,Scott Peters,saraleon@example.org,67,Male,Nikon D,2020-12-21,Billing inquiry,Hardware issue,"I'm having an issue with the {product_purchased}. Please assist.
+
+Click ""I have purchased all three of the {Product_purchased} items"".
+
+Step 15
+
+In the previous step, I have I've already contacted customer support multiple times, but the issue remains unresolved.",Closed,Easy east put course.,Medium,Email,2023-06-01 00:07:24,2023-06-01 22:18:24,3.0,"Hardware issue I'm having an issue with the {product_purchased}. Please assist.
+
+Click ""I have purchased all three of the {Product_purchased} items"".
+
+Step 15
+
+In the previous step, I have I've already contacted customer support multiple times, but the issue remains unresolved.","Based on the ticket text, I would classify this support ticket as a **Technical issue**.",Technical Issue
+4641,Travis Robinson,youngmegan@example.org,33,Other,Adobe Photoshop,2020-02-08,Billing inquiry,Data loss,"I'm having an issue with the {product_purchased}. Please assist.
+
+The data in this post originated from I am a graphic designer and a developer by trade. Having so many ideas to create was the first step in learning to I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Open,,High,Email,,,,"Data loss I'm having an issue with the {product_purchased}. Please assist.
+
+The data in this post originated from I am a graphic designer and a developer by trade. Having so many ideas to create was the first step in learning to I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased, specifically data loss, and",Technical Issue
+5786,Wendy Garcia,aliabigail@example.org,61,Male,LG Smart TV,2020-03-19,Billing inquiry,Installation support,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+How did it reset my password?
+
+How can I remove and modify this I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Closed,Real agency agree sort lay with include brother.,Critical,Phone,2023-06-01 02:42:31,2023-06-01 04:00:31,3.0,"Installation support I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+How did it reset my password?
+
+How can I remove and modify this I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",The support ticket can be classified as a **Technical issue**.,Account Access
+4074,Robert Collins,cuevaslisa@example.net,35,Female,PlayStation,2020-07-01,Product inquiry,Software bug,"I'm having an issue with the {product_purchased}. Please assist. Thank you.
+
+Sierra Designs, I'll be happy to work with you. Thank you.
+
+My only complaint is that the quality of the product I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Open,,Medium,Social media,,,,"Software bug I'm having an issue with the {product_purchased}. Please assist. Thank you.
+
+Sierra Designs, I'll be happy to work with you. Thank you.
+
+My only complaint is that the quality of the product I'm using the original charger that came with my {product_purchased}, but it's not charging properly.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product (specifically, the charger not working",Product inquiry
+1321,Andrew Duke,vanessamichael@example.net,36,Male,Nikon D,2020-12-04,Cancellation request,Software bug,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution? Thanks: The program is not running correctly. You can see the screen flickering and I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Open,,High,Email,,,,"Software bug There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution? Thanks: The program is not running correctly. You can see the screen flickering and I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",The category for this support ticket is: **Technical issue**,Technical Issue
+1124,Justin Johnson,meghanwu@example.net,26,Male,LG Washing Machine,2021-08-17,Technical issue,Refund request,"I'm having an issue with the {product_purchased}. Please assist. I can check this out here.
+
+A couple weeks ago I found a lot of my friends that were interested in the new product. So, I made my I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Pending Customer Response,,Critical,Phone,2023-06-01 04:08:25,,,"Refund request I'm having an issue with the {product_purchased}. Please assist. I can check this out here.
+
+A couple weeks ago I found a lot of my friends that were interested in the new product. So, I made my I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",The category for this support ticket is: **Refund request**,Refund request
+3847,Sarah Mcfarland,echarles@example.net,31,Other,HP Pavilion,2021-03-05,Cancellation request,Refund request,"I'm having an issue with the {product_purchased}. Please assist.
+
+How can I report a complaint?
+
+We accept an online form which will assist you in collecting, reporting and ensuring your account is up to date. I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Open,,High,Chat,,,,"Refund request I'm having an issue with the {product_purchased}. Please assist.
+
+How can I report a complaint?
+
+We accept an online form which will assist you in collecting, reporting and ensuring your account is up to date. I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",The correct classification for this support ticket is: **Refund request**.,Refund request
+3074,Kyle Lopez,davisstephen@example.com,68,Male,Garmin Forerunner,2021-12-07,Cancellation request,Battery life,"I'm having an issue with the {product_purchased}. Please assist.
+
+For further details on this issue please email support@mozilla.org.uk. I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Open,,Medium,Social media,,,,"Battery life I'm having an issue with the {product_purchased}. Please assist.
+
+For further details on this issue please email support@mozilla.org.uk. I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",I would classify this support ticket as a **Technical issue**.,Technical Issue
+1651,Teresa Ross,pvaughn@example.org,39,Other,Microsoft Surface,2020-06-29,Cancellation request,Refund request,"My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this?
+
+<input type=""checkbox"" name=""test_input"" value The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Pending Customer Response,,High,Social media,2023-06-01 06:16:28,,,"Refund request My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this?
+
+<input type=""checkbox"" name=""test_input"" value The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","I would classify this support ticket as a **Refund request**. The customer is requesting a refund due to a hardware issue with their product, which",Refund request
+7105,April Hart,shelley05@example.com,62,Other,Nest Thermostat,2020-05-20,Billing inquiry,Peripheral compatibility,"I'm having an issue with the {product_purchased}. Please assist.
+
+If you do not know what you are getting from this product then you are not a member of the customer service team at the site you are looking for. I need assistance as soon as possible because it's affecting my work and productivity.",Open,,Medium,Social media,,,,"Peripheral compatibility I'm having an issue with the {product_purchased}. Please assist.
+
+If you do not know what you are getting from this product then you are not a member of the customer service team at the site you are looking for. I need assistance as soon as possible because it's affecting my work and productivity.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased, specifically with peripheral compatibility,",Technical Issue
+5910,Michael Baker,cooperjustin@example.com,56,Other,Lenovo ThinkPad,2021-06-20,Product inquiry,Product recommendation,"I'm having an issue with the {product_purchased}. Please assist.
+
+This product was sent out. I received it within 24 hours.
+
+In order for me to provide feedback and information on your product, it is important I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Closed,Own huge here billion change media.,Critical,Chat,2023-06-01 11:09:28,2023-06-01 14:09:28,2.0,"Product recommendation I'm having an issue with the {product_purchased}. Please assist.
+
+This product was sent out. I received it within 24 hours.
+
+In order for me to provide feedback and information on your product, it is important I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",The category for this support ticket is: **Technical issue**.,Product Feedback
+6767,Christopher Owen,timothy29@example.net,42,Female,HP Pavilion,2020-10-21,Cancellation request,Software bug,"My {product_purchased} crashed, and I lost all the data stored on it. Is there any way to recover the lost data?
+
+Sending messages to other servers is not a problem either: you can send ""sends I'm not sure if this issue is specific to my device or if others have reported similar problems.",Pending Customer Response,,Critical,Social media,2023-06-01 04:49:03,,,"Software bug My {product_purchased} crashed, and I lost all the data stored on it. Is there any way to recover the lost data?
+
+Sending messages to other servers is not a problem either: you can send ""sends I'm not sure if this issue is specific to my device or if others have reported similar problems.",I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with their software (crashing and data loss) and,Technical Issue
+1359,Deborah Nelson,richardharris@example.org,69,Other,Microsoft Office,2021-10-24,Billing inquiry,Software bug,"I'm having an issue with the {product_purchased}. Please assist. Thank you I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Open,,High,Email,,,,"Software bug I'm having an issue with the {product_purchased}. Please assist. Thank you I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",The category for this support ticket is: **Technical issue**.,Technical Issue
+5599,Jessica Brown,kacosta@example.org,24,Male,GoPro Hero,2021-08-14,Billing inquiry,Payment issue,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please confirm your order before it ships.
+
+You will receive 1 confirmation email in no time.
+
+We provide you with an email address for each The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Pending Customer Response,,Low,Phone,2023-06-01 20:48:16,,,"Payment issue I'm having an issue with the {product_purchased}. Please assist.
+
+Please confirm your order before it ships.
+
+You will receive 1 confirmation email in no time.
+
+We provide you with an email address for each The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing intermittent problems with a product, which",Billing inquiry
+543,Teresa Jimenez,stevenchen@example.net,25,Male,Garmin Forerunner,2020-05-09,Cancellation request,Product compatibility,"I'm having an issue with the {product_purchased}. Please assist. We can talk. Just don't try to contact me about it.""
+
+It turns out someone at Valve started posting that the ""modes"" of the Steam I've checked for any available software updates for my {product_purchased}, but there are none.",Open,,Medium,Chat,,,,"Product compatibility I'm having an issue with the {product_purchased}. Please assist. We can talk. Just don't try to contact me about it.""
+
+It turns out someone at Valve started posting that the ""modes"" of the Steam I've checked for any available software updates for my {product_purchased}, but there are none.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and is seeking assistance to resolve the issue,Product Inquiry
+7736,David Reese,haleybrown@example.net,41,Other,Amazon Echo,2020-06-08,Technical issue,Refund request,"I'm having an issue with the {product_purchased}. Please assist.
+
+The product description says ""The 'Sustainable' version, made in Australia, is a high quality multi-purpose bag designed with the latest design technology and I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",Open,,Critical,Email,,,,"Refund request I'm having an issue with the {product_purchased}. Please assist.
+
+The product description says ""The 'Sustainable' version, made in Australia, is a high quality multi-purpose bag designed with the latest design technology and I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",The category for this support ticket is: **Refund request**,Refund request
+3379,Patrick Smith,nicole63@example.net,27,Male,Samsung Soundbar,2021-09-14,Product inquiry,Product compatibility,"I'm having an issue with the {product_purchased}. Please assist.
+
+1411
+
+10.06.2016 13:23
+
+
+No, our team cannot offer it or any other product in this country. I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Closed,Class drug pressure like.,High,Phone,2023-06-01 14:50:33,2023-06-01 17:53:33,3.0,"Product compatibility I'm having an issue with the {product_purchased}. Please assist.
+
+1411
+
+10.06.2016 13:23
+
+
+No, our team cannot offer it or any other product in this country. I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with a product they purchased and is seeking assistance, which",Product Inquiry
+2572,Kenneth Brown,schmidtwilliam@example.net,31,Female,Sony 4K HDR TV,2020-07-25,Cancellation request,Delivery problem,"My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Thanks
+
+ReplyReply
+
+ReplyReply Balloon: I've seen this issue I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Pending Customer Response,,Medium,Phone,2023-06-01 17:37:08,,,"Delivery problem My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Thanks
+
+ReplyReply
+
+ReplyReply Balloon: I've seen this issue I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",The category for this support ticket is: **Technical issue**.,Technical Issue
+5292,Matthew Snow,xjones@example.net,37,Female,GoPro Action Camera,2020-03-27,Cancellation request,Network problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+A valid purchase must be made on or before 7:00 p.m.
+
+Your purchases will be refunded in full within thirty daysCleanup I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Closed,Foreign plant employee how professor customer audience.,High,Chat,2023-06-01 16:42:03,2023-06-01 05:20:03,4.0,"Network problem I'm having an issue with the {product_purchased}. Please assist.
+
+A valid purchase must be made on or before 7:00 p.m.
+
+Your purchases will be refunded in full within thirty daysCleanup I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased, which is a network issue",Technical Issue
+4490,Veronica Jackson,vwilson@example.org,66,Female,Garmin Forerunner,2020-01-15,Product inquiry,Data loss,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available?
+
+
+No, so far.
+
+
+How long will it take I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Open,,High,Phone,,,,"Data loss I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available?
+
+
+No, so far.
+
+
+How long will it take I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a software bug that causes the application to crash, and they are",Product inquiry
+2925,Elizabeth Wells,fwells@example.net,48,Male,Dell XPS,2021-02-06,Refund request,Cancellation request,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? You can try contacting your bank. See the guide below.
+
+Step 4: Change I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Pending Customer Response,,Medium,Phone,2023-06-01 21:49:55,,,"Cancellation request I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? You can try contacting your bank. See the guide below.
+
+Step 4: Change I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",The correct classification for this support ticket is: **Cancellation request**.,Account Access
+7496,William Butler,khaas@example.org,51,Female,Canon DSLR Camera,2020-05-13,Technical issue,Software bug,"I'm having an issue with the {product_purchased}. Please assist.
+
+You cannot add value by spending a minimum of $20. Any changes to the {product_purchased} will violent make this purchase. I've already contacted customer support multiple times, but the issue remains unresolved.",Closed,Hope head sea.,High,Phone,2023-06-01 13:58:55,2023-06-01 22:52:55,4.0,"Software bug I'm having an issue with the {product_purchased}. Please assist.
+
+You cannot add value by spending a minimum of $20. Any changes to the {product_purchased} will violent make this purchase. I've already contacted customer support multiple times, but the issue remains unresolved.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased and is requesting assistance to resolve,Technical Issue
+737,Christopher Gutierrez,william23@example.net,21,Male,Dyson Vacuum Cleaner,2021-05-30,Billing inquiry,Network problem,I'm having an issue with the {product_purchased}. Please assist. If not please log in here. You may need to log in the following week to try to help. This problem started occurring after the recent software update. I haven't made any other changes to the device.,Open,,High,Phone,,,,Network problem I'm having an issue with the {product_purchased}. Please assist. If not please log in here. You may need to log in the following week to try to help. This problem started occurring after the recent software update. I haven't made any other changes to the device.,"I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with their product, specifically a network issue that started after",Technical Issue
+4634,Diana Gibson,vlynch@example.org,55,Other,iPhone,2020-03-04,Product inquiry,Data loss,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available?
+
+Please contact me if you are experiencing this problem. I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Pending Customer Response,,High,Chat,2023-06-01 14:04:05,,,"Data loss I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available?
+
+Please contact me if you are experiencing this problem. I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",The support ticket can be classified as a **Technical issue**.,Product inquiry
+1808,Melissa Bowman,jackrodriguez@example.org,48,Male,Apple AirPods,2020-02-24,Billing inquiry,Battery life,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+The product is not currently available. This item is not currently available for purchase. I need assistance as soon as possible because it's affecting my work and productivity.",Closed,Town reason federal week organization.,Medium,Phone,2023-06-01 02:25:02,2023-05-31 22:35:02,5.0,"Battery life I'm having an issue with the {product_purchased}. Please assist.
+
+
+The product is not currently available. This item is not currently available for purchase. I need assistance as soon as possible because it's affecting my work and productivity.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with the product they purchased, specifically with the battery life",Product inquiry
+2702,Erica Chambers,pearsonjanice@example.com,44,Male,PlayStation,2020-07-20,Product inquiry,Payment issue,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. I can't use the $. That's I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Closed,Person population outside small necessary.,Critical,Chat,2023-06-01 21:23:58,2023-06-01 05:46:58,3.0,"Payment issue I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. I can't use the $. That's I'm using the original charger that came with my {product_purchased}, but it's not charging properly.","I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product not turning on and not charging properly,",Technical Issue
+6267,Melissa Kirby,marywalker@example.net,70,Male,Microsoft Xbox Controller,2021-08-08,Refund request,Product recommendation,"I'm having an issue with the {product_purchased}. Please assist.
+
+1. Log in to the account you've created. It's important! Use the right tools and log in with your username, email address, or account I've checked for software updates, and my {product_purchased} is already running the latest version.",Closed,Develop ability catch there begin sort.,High,Social media,2023-06-01 13:24:31,2023-06-01 08:42:31,4.0,"Product recommendation I'm having an issue with the {product_purchased}. Please assist.
+
+1. Log in to the account you've created. It's important! Use the right tools and log in with your username, email address, or account I've checked for software updates, and my {product_purchased} is already running the latest version.","Based on the ticket text, I would classify this support ticket as a **Product inquiry**. The customer is asking for assistance with a product they've",Product Inquiry
+5811,Lisa Bell,paul77@example.net,41,Female,Microsoft Surface,2020-04-06,Cancellation request,Delivery problem,"I'm having an issue with the {product_purchased}. Please assist.
+
+[13:12] <@gmaxwell> (I mean, how they can not have the prices shown on my feed.) *brief* *b I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Pending Customer Response,,Low,Social media,2023-06-01 01:08:04,,,"Delivery problem I'm having an issue with the {product_purchased}. Please assist.
+
+[13:12] <@gmaxwell> (I mean, how they can not have the prices shown on my feed.) *brief* *b I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.","Based on the ticket text, I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product and has",Technical Issue
+2145,Richard Vasquez,ystout@example.net,28,Female,Microsoft Office,2020-10-06,Product inquiry,Software bug,"I'm having an issue with the {product_purchased}. Please assist.
+
+When you are done removing the *purchased, you lose my control of this software. The only way to make it back is to reset the software I've already contacted customer support multiple times, but the issue remains unresolved.",Closed,Avoid type natural because herself.,High,Social media,2023-06-01 14:44:13,2023-06-01 17:18:13,2.0,"Software bug I'm having an issue with the {product_purchased}. Please assist.
+
+When you are done removing the *purchased, you lose my control of this software. The only way to make it back is to reset the software I've already contacted customer support multiple times, but the issue remains unresolved.","I would classify this support ticket as a **Technical issue**. The customer is reporting a problem with the software they purchased, specifically a bug that is",Technical Issue
+1035,Russell Alexander DDS,aliciarichardson@example.org,31,Female,Bose SoundLink Speaker,2020-09-14,Technical issue,Software bug,"I'm having an issue with the {product_purchased}. Please assist. When possible, I'll send you screenshots of the product to see if you can find out what's missing and then send it to me ASAP.
+
+1) I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Closed,Possible entire candidate school sure.,Low,Phone,2023-06-01 17:02:18,2023-06-01 10:00:18,4.0,"Software bug I'm having an issue with the {product_purchased}. Please assist. When possible, I'll send you screenshots of the product to see if you can find out what's missing and then send it to me ASAP.
+
+1) I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",The category for this support ticket is: **Technical issue**.,Technical Issue
+7513,Megan Smith,alyssa18@example.net,41,Male,HP Pavilion,2021-09-02,Refund request,Product recommendation,"I'm having an issue with the {product_purchased}. Please assist.
+
+The following has been made for an upcoming sale.
+
+Please contact the retailer directly to get in touch. Please contact the address given prior to you completing I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Open,,Medium,Social media,,,,"Product recommendation I'm having an issue with the {product_purchased}. Please assist.
+
+The following has been made for an upcoming sale.
+
+Please contact the retailer directly to get in touch. Please contact the address given prior to you completing I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",I would classify this support ticket as a **Technical issue**.,Product Inquiry
+8163,Karen Allen,joshua04@example.com,62,Male,Microsoft Xbox Controller,2020-07-09,Refund request,Payment issue,"My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? $20.50
+
+GitHub - A BitTorrent client I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Open,,Medium,Social media,,,,"Payment issue My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? $20.50
+
+GitHub - A BitTorrent client I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",I would classify this support ticket as a **Technical issue**. The customer is experiencing problems with their product (making strange noises and not functioning properly),Billing inquiry
+7600,Alexander Henry,barnescarolyn@example.com,25,Female,PlayStation,2020-10-17,Refund request,Data loss,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you,
+
+Xavier
+
+We're seeing very low demand for the product today.
+
+We're making a big announcement tomorrow about another I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Open,,Low,Phone,,,,"Data loss I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you,
+
+Xavier
+
+We're seeing very low demand for the product today.
+
+We're making a big announcement tomorrow about another I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",I would classify this support ticket as a **Technical issue**. The customer is experiencing a problem with their product (data loss) and has already attempted,Technical Issue
